@@ -1,0 +1,9 @@
+HTTP/1.1
+Connection: Close
+Server: connectionResponder 1.0
+Content-type: text/html
+Content-lenght: 38
+Cache-control: no-cache
+Pragma: no-cache
+
+<html><bod>Hello, world</body></html>
